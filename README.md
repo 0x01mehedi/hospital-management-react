@@ -1,2 +1,2 @@
-# hospital-management-react
-This is my project hospital management in react 
+# hospital-management-laravel
+This is my project hospital management in laravel
